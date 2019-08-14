@@ -1,6 +1,8 @@
 import random
 import sys
 
+#My own twist on the tips: it only shows 1 tip: the one that gives you more moves.
+
 width = 8
 height = 8
 
