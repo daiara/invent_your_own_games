@@ -1,5 +1,9 @@
 import random
 
+'''
+A few changes on the code (like the words won't repeat themselves on the same game) and a dictionary with my favorite things to guess.
+'''
+
 HANGMAN_PICS = ['''
     +---+
         |
